@@ -1,3 +1,3 @@
 Sam Brody
-An example of an <h1> header is #
+<h1>An example of an header is #<h1>
 **An example of text that will be BOLB**
