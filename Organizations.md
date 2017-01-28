@@ -32,6 +32,6 @@
 5. Why Classical Theory Did Not Work...
 	* Too many rules and too little worker satisfaction
 	* People only worked for the money
-=======
+
 #Contingency Theory#
 
