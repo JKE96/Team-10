@@ -1,5 +1,5 @@
 # Organizational Theory #
-## Systems Theory ##
+## Systems Theory (General Systems Theory) ##
 1. Founded by Karl Ludwig von Bertalanffy
 2. __Principles…__
 	* Everything is interrelated
@@ -7,8 +7,20 @@
 	* Nonlinear relationships make it difficult to determine cause and effect relationships (complex)
 3. __[Systems Dynamics as described by MIT](http://web.mit.edu/sysdyn/sd-intro/)__
 	* “_The objects and people in a system interact through ‘feedback’ loops, where a change in one variable affects other variables over time, which in term affects the original variable_”
-	* attempts to understand the behavior a system can produce
-	* makes use of computer models to simulate calculations to represent how the theory can change
+	* Attempts to understand the behavior a system can produce
+	* Makes use of computer models to simulate calculations to represent how the theory can change
+4. __[University of Toronto](http://www.cs.toronto.edu/~sme/CSC340F/slides/08-systems.pdf)__
+	* Basic Principles…
+		* Truth tends to be relative
+		* Most views emphasize emphasize each other
+	* Defining Systems…
+		* What variables are involved in the system
+	* How scientists understand the world:
+		* Reductionism - breaking a process down into integrated pieces
+		* Statistics - measuring the average outcome of a high number of simulations
+	* Originally developed for biological models
+	* Not necessary to understand all variables in play
+	* Understand relationship between different cogs in the system
 
 
 ## Classical Organization Theory ##
