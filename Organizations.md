@@ -6,4 +6,4 @@
 	* Small changes can create a large impact
 	* Nonlinear relationships make it difficult to determine cause and effect relationships (complex)
 
-![Computer Network](http://computerschools.com/uploads/digital_asset/file/331/computer-network_600x315.jpg)
+[Computer Network](http://computerschools.com/uploads/digital_asset/file/331/computer-network_600x315.jpg)
