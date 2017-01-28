@@ -1,3 +1,3 @@
 # Organizational Theory #
-1. Systems Theory 
+## Systems Theory ##
 
