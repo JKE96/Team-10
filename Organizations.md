@@ -6,5 +6,5 @@
 	* Small changes can create a large impact
 	* Nonlinear relationships make it difficult to determine cause and effect relationships (complex)
 	* “The objects and people in a system interact through ‘feedback’ loops, where a change in one variable affects other variables over time, which in term affects the original variable”
-	* [MIT Systems Dynamics](http://web.mit.edu/sysdyn/sd-intro/)
+		* [MIT Systems Dynamics](http://web.mit.edu/sysdyn/sd-intro/)
 
