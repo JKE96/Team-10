@@ -45,9 +45,10 @@
 	* Too many rules and too little worker satisfaction
 	* People only worked for the money
 
-#Contingency Theory#
-1. Proposed by Fred E. Fiedler in 1964 
-	- [Fiedler's Contingency Model](http://www.managementstudyguide.com/	   fiedlers-contingency-model.htm#): "based on studies of a wide range of 	   group effectiveness, and concentrated on the relationship between 	   leadership and organizational performance. 
+## Contingency Theory ##
+1. Proposed by Fred E. Fiedler in 1964: [Contingency Model](http://www.toolshero.com/leadership/fiedler-contingency-model/)
+	- "Relationship (contingency) between the effectiveness of the leadership 	    style and the situation."
+	- Fiedler distinguished three factors: (1) Make up of the group, (2) Nature of  	    the task, and (3) Power of the leader 
 2. [Principles](http://kannanpersonal.com/learning/management/contingency2.html):
 	- "Contingency theory firmly understands the fact that our social and 	    business environment is always subject to change" 
 	- Conflict Previously avoided, but inherently unavoidable
@@ -55,6 +56,6 @@
 	- The “best way” depends/is contingent on  the situation at hand
 	- leader's effectiveness determined by interaction of leader's style of 	   behavior and favorableness of the situational characteristics.
 3. Different Approaches: 
-	- Jay Lorsch and Paul Lawrence: Interested in impact of factors of 	   contingency on organizational structure and ManagerialAuthority.
+	- Jay Lorsch and Paul Lawrence(1967): Interested in impact of factors of 	   contingency on organizational structure and ManagerialAuthority.
 	- Alfred Chandler (1962): argued that organizational strategy be proposed 	   before establishing structure. Idea that organizations adapt logically. 
 
