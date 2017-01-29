@@ -46,13 +46,15 @@
 	* People only worked for the money
 
 #Contingency Theory#
-1. Contingency Model Proposed by psychologist Fred Fiedler
-     2. Principles:
-`		- Conflict Previously avoided, but inherently unavoidable
-		- No best way to organize a corporation, make decisions, or lead an 	   		  organization 
-		- The “best way” depends/ is contingent on  the situation at hand
-     3. Different Approaches: 
-	        - Jay Lorsch and Paul Lawrence : Interested in impact of factors of 	   		  contingency on organizational structure and Managerial Authority.
-	        - Alfred Chandler (1920): argued that organizational strategy be proposed 	   	  before establishing structure. <h3>
-     4. 
+1. Proposed by Fred E. Fiedler in 1964 
+	- [Fiedler's Contingency Model](http://www.managementstudyguide.com/	   fiedlers-contingency-model.htm#): "based on studies of a wide range of 	   group effectiveness, and concentrated on the relationship between 	   leadership and organizational performance. 
+2. [Principles](http://kannanpersonal.com/learning/management/contingency2.html):
+	- "Contingency theory firmly understands the fact that our social and 	    business environment is always subject to change" 
+	- Conflict Previously avoided, but inherently unavoidable
+	- No best way to organize a corporation, make decisions, or lead an 	    organization 
+	- The “best way” depends/is contingent on  the situation at hand
+	- leader's effectiveness determined by interaction of leader's style of 	   behavior and favorableness of the situational characteristics.
+3. Different Approaches: 
+	- Jay Lorsch and Paul Lawrence: Interested in impact of factors of 	   contingency on organizational structure and ManagerialAuthority.
+	- Alfred Chandler (1962): argued that organizational strategy be proposed 	   before establishing structure. Idea that organizations adapt logically. 
 
