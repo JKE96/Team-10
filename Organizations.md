@@ -11,5 +11,11 @@
 	* makes use of computer models to simulate calculations to represent how the theory can change
 
 
-#Contingency Theory#
+<h2> Contingency Theory <h2>
+1. 
+2. Principles…
+`	- Conflict Previously avoided, but inherently unavoidable
+	- No best way to organize a corporation, make decisions, or lead an organization 
+	- The “best way” depends/ is contingent on  the situation at hand
+
 
