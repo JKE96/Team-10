@@ -9,3 +9,12 @@
 |Combination of Knowledge and Experience| Arbitrarily mashed together|
 |Perception of grouping                 ||
 |Within an organization                 ||
+
+## Traits of a Team ##
+
+### Communication ###
+* Information Highway
+* Frequency (how often) and Formalization (how spontaneous)
+* Informal + spontaneous -> Success
+* Be direct and open
+
