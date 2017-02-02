@@ -2,11 +2,8 @@
 
 ## Teams versus Groups ##
 
-| Teams | Groups |
-| ————- | —————- |
-
 | Teams         |Groups         |
 | ------------- |:-------------:|
-| col 3 is      | right-aligned |
-| col 2 is      | centered      |
-| zebra stripes | are neat      |
+|       | Plain People |
+| col 2 is      | Lack of identified commonality     |
+| zebra stripes | Arbitrarily mashed together        |
