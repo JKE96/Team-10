@@ -1,1 +1,5 @@
-My name is Sam Brody
+# Teams #
+
+## Teams versus Groups ##
+Teams | Groups
+_____ | ______
