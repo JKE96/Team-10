@@ -22,3 +22,8 @@
 * Establishing common understanding 
 	* status, contributions, schedules, etc.
 * Clear roadmap for project 
+
+### Contributions ###
+* Different functional expertise 
+* Respect ideas and thoughts 
+* No dominating members 
