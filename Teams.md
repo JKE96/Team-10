@@ -1,4 +1,4 @@
-# __Teams__ #
+# Teams #
 
 ## Teams versus Groups ##
 
@@ -20,10 +20,17 @@
 
 ### Coordination ###
 * Establishing common understanding 
-	* status, contributions, schedules, etc.
+	1. status, contributions, schedules, etc.
 * Clear roadmap for project 
 
 ### Contributions ###
 * Different functional expertise 
 * Respect ideas and thoughts 
 * No dominating members 
+
+### Support ###
+* We’re all in this together.
+* Competitive? No, cooperative.
+* Show mutual respect
+* Be willing to assist
+* Not a competition
