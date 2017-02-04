@@ -68,3 +68,27 @@ relationships start to establish, and the leader changes leadership style.
 ## ##	- Three parts to a smart team		* Members contribute the same amount to team discussions without one or two members speaking for the entire group.		* Members have good body language.		* A study found that teams with women could outperform.2.[The Advantages and Disadvantages of Teams in the Workplace](http://smallbusiness.chron.com/advantages-disadvantages-teams-workplace-21669.html)
 ## ##	- Advantages		* Better Solutions – Teams used to try to create better quality work.		* Better Production – Helps keep team members accountable for doing certain work.	- Disadvantages		* Intra-Team Conflict – Work teams can clash and disagree from different work ideas.		* Inter-Team Conflict – Conflict between
 
+		
+##Cohesion in the Workplace##
+Cohesion in the workplace is the glue between the individual and the workplace. Because of cohesion, people want to stay in the workplace and stick with a team.
+*People are commited to their tasks and the team is commited to them
+*People are proud of their work and want to show it off
+*Increase employee satisfaction
+*Increased employee preparation
+
+##Spaces & Places in the workplace##
+###Open Workspaces###
+*Open tables 
+*Many distractions
+*Close to peers, Easy interaction
+
+###Closed Workspaces###
+*Cubicles and desks
+*Private, quiet
+*Closed to peers, difficult or forced interaction
+ 
+###Acountability###
+*If open workspace, manager may always be watching
+*If closed workspace, worker may have more percieved freedom
+*Workers accountable for themselves and peers
+*Home based workers will be held accountable via internet
