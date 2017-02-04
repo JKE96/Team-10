@@ -78,17 +78,17 @@ Cohesion in the workplace is the glue between the individual and the workplace. 
 
 ##Spaces & Places in the workplace##
 ###Open Workspaces###
-*Open tables 
-*Many distractions
-*Close to peers, Easy interaction
+* Open tables 
+* Many distractions
+* Close to peers, Easy interaction
 
 ###Closed Workspaces###
-*Cubicles and desks
-*Private, quiet
-*Closed to peers, difficult or forced interaction
+* Cubicles and desks
+* Private, quiet
+* Closed to peers, difficult or forced interaction
  
 ###Acountability###
-*If open workspace, manager may always be watching
-*If closed workspace, worker may have more percieved freedom
-*Workers accountable for themselves and peers
-*Home based workers will be held accountable via internet
+* If open workspace, manager may always be watching
+* If closed workspace, worker may have more percieved freedom
+* Workers accountable for themselves and peers
+* Home based workers will be held accountable via internet
