@@ -44,22 +44,24 @@ Tuckman's model explains that as the team develops maturity and ability,
 relationships start to establish, and the leader changes leadership style. 
 
 -Stage 1 Forming:
-* Getting to know one another
-* Guidance is required 
-* Discovering roles of team members
+* Team members meet and discuss opportunities, challenges, goals
+* Orientation of future procedurs
+* Discovering roles, strengths, weaknesses of team members
 * Processes are in progress
 
 -Stage 2 Storming:
-* Making team decisions 
-* Developing a clear purpose
-* Relationships are unclear
+* Making team decisions
+* Developing a clear purpose 
+* Tolerance of members is important in this stage, avoid conflict
+* members form opinions about character, integrity, etc. of other members
 
 -Stage 3 Norming:
-* Relationships start to solidify
-* Commitment to goal is developed 
+* Resolve any past disagreements and work around them
+* Relationships start to solidify, they share a common goal now
+* Commitment to goal is developed, team members take responsibility
 * Process optimization
 
 -Stage 4 Performing:
-* Less oversight 
-* Smooth operation
-* Strategic
+* Less oversight, members knowledgeable, motivated, and feeling competent
+* Smooth, strategic operation
+* Necessary decision making 
