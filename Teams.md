@@ -38,38 +38,8 @@ In this lecture, we discussed in general what a ‘Team’ is as well as what as
 * Respect between team members 
 * Willingness to help one another
 * Not a competition
-<<<<<<< HEAD
->>>>>>> fdd9482061d2981505c6f0c8ef0aa318754251ec
 
-##Tuckman's Stages
-Tuckman's model explains that as the team develops maturity and ability,
-relationships start to establish, and the leader changes leadership style. 
-
--Stage 1 Forming:
-* Team members meet and discuss opportunities, challenges, goals
-* Orientation of future procedurs
-* Discovering roles, strengths, weaknesses of team members
-* Processes are in progress
-
--Stage 2 Storming:
-* Making team decisions
-* Developing a clear purpose 
-* Tolerance of members is important in this stage, avoid conflict
-* members form opinions about character, integrity, etc. of other members
-
--Stage 3 Norming:
-* Resolve any past disagreements and work around them
-* Relationships start to solidify, they share a common goal now
-* Commitment to goal is developed, team members take responsibility
-* Process optimization
-
--Stage 4 Performing:
-* Less oversight, members knowledgeable, motivated, and feeling competent
-* Smooth, strategic operation
-* Necessary decision making 
-=======
-
-##Tuckman's Stages
+##Tuckman's Stages ##
 Tuckman's model explains that as the team develops maturity and ability,
 relationships start to establish, and the leader changes leadership style. 
 
@@ -93,4 +63,8 @@ relationships start to establish, and the leader changes leadership style.
 * Less oversight 
 * Smooth operation
 * Strategic
->>>>>>> 01a8785d57e8341fc5df11ec27b7868f14c89436
+
+
+ __[Why Some Teams Are Smarter Than Others] (https://www.nytimes.com/2015/01/18/opinion/sunday/why-some-teams-are-smarter-than-others.html)__1.Three parts to a smart team	* Members contribute the same amount to team discussions without one or two members speaking for the entire group.	* Members have good body language.	* A study found that teams with women could outperform.__[The Advantages and Disadvantages of Teams in the Workplace] (http://smallbusiness.chron.com/advantages-disadvantages-teams-workplace-21669.html
+)__1.Advantages	* Better Solutions – Teams used to try to create better quality work.	* Better Production – Helps keep team members accountable for doing certain work.2. Disadvantages	* Intra-Team Conflict – Work teams can clash and disagree from different work ideas.	* Inter-Team Conflict – Conflict between
+
