@@ -64,7 +64,6 @@ relationships start to establish, and the leader changes leadership style.
 * Smooth operation
 * Strategic
 
-
- __[Why Some Teams Are Smarter Than Others] (https://www.nytimes.com/2015/01/18/opinion/sunday/why-some-teams-are-smarter-than-others.html)__1.Three parts to a smart team	- Members contribute the same amount to team discussions without one or two members speaking for the entire group.	- Members have good body language.	- A study found that teams with women could outperform.__[The Advantages and Disadvantages of Teams in the Workplace] (http://smallbusiness.chron.com/advantages-disadvantages-teams-workplace-21669.html
+[Why Some Teams Are Smarter Than Others] (https://www.nytimes.com/2015/01/18/opinion/sunday/why-some-teams-are-smarter-than-others.html)1.Three parts to a smart team	- Members contribute the same amount to team discussions without one or two members speaking for the entire group.	- Members have good body language.	- A study found that teams with women could outperform.[The Advantages and Disadvantages of Teams in the Workplace] (http://smallbusiness.chron.com/advantages-disadvantages-teams-workplace-21669.html)
 )__1.Advantages	- Better Solutions – Teams used to try to create better quality work.	- Better Production – Helps keep team members accountable for doing certain work.2. Disadvantages	- Intra-Team Conflict – Work teams can clash and disagree from different work ideas.	- Inter-Team Conflict – Conflict between
 
