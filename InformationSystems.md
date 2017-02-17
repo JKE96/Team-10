@@ -1,3 +1,7 @@
-Sam Brody
-##An example of the second type of header is this##
-An example of text that will be **BOLD**
+# Defining an Information System #
+There is a clear difference between Information Technology (IT) and Information Systems (IS). IT systems primarily transmit, process, and store information while an IS uses the IT to maintain the IS. There are six different components of an IS which are hardware, software, data, network, procedures, and people. According to the encyclopedia of Britannica, IS are defined as “an integrated set of components for collecting, storing, and processing data and for providing information, knowledge, and digital products.” Many types of organizations implement IS to manage different types of operations. 
+Resource:
+[Encyclopedia of Britannica] (https://www.britannica.com/topic/information-system)
+
+# History of the Information System #
+Starting in the 1900s, there was a large demand for processing systems because of how  corporations were scaling. Hence, the use of record keepers/bookkeepers. With the invention of computers in the 1940s, the military implemented their use to manage operations. In the 1950s, this continued with the use of Electronic Data Processing (EDP) to perform record keeping for accounting, finance, etc. These processes were performed by mainframes which were basic computers that could only perform set calculations and were not malleable from a programming standpoint. The 1960s welcomed the IBM 360 series which came in many different sizes and and included an operating system. This eventually lead to the creation of Personal Computers (PCs) in the 1970s and basic Local Area Networking (LAN). Initially, these PCs were used only for business purposes but eventually came to the consumer’s home however they did not have much more functionality besides there business uses. Once the 1990s onset, LAN became Wide Area Networks (WAN) which have a larger range of connectivity between computers and the invention of databases to store information. Lastly, the 2000s introduced man to the internet which was the next logical step from WAN and of IS sharing data. 
