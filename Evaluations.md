@@ -15,4 +15,5 @@ We must never be afraid to ask why someone does something a certain way, how som
 <p align="center">Works Cited</p>
 Multiple Authors. "Quantitative Evaluation of Software Packages for Single-molecule Localization Microscopy.” Nature Methods. U.S. National Library of Medicine, n.d. Web. 24 Feb. 2017.
 <br>
+<br>
 Vaterlaus, Mitch J., and Brian J. Higginbotham. "Qualitative Program Evaluation Methods." Qualitative Program Evaluation Methods. NC State University, n.d. Web. 24 Feb. 2017. https://ncsu.edu/ffci/publications/2011/v16-n1-2011-spring/vaterlaus-higginbotham.php.
