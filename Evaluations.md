@@ -8,10 +8,11 @@
 
 ##Qualitative Evaluation##
 &nbsp;&nbsp;&nbsp;&nbsp;Qualitative research and evaluation has been defined as “making sense of data gathered from interviews, on-site observations, documents, and then having the “responsibly presenting what the data reveal” (Vaterlaus et al.). Unlike Quantitative Evaluation, Qualitative Evaluation is more about the who, what, when, where and why. In order to have proper Qualitative evaluations, one must either physically or virtually step into the environment of the subjects. This way we can see the perspectives, experiences, social and organizational contexts, and see how the subjects interact with the system. 
+<br>
 &nbsp;&nbsp;&nbsp;&nbsp;We start with a broad, open-ended question(s), with the goal of focusing down to achieve finer details and points. This goal helps us understand how and why people interact with systems. 
 We must never be afraid to ask why someone does something a certain way, how someone would prefer to do something, or even why they do it. This is how we discover new methods and ideas for system updates or creation. We can record the answers to our questions be writing them down or recording them, usually in informal interviews throughout the period. 
 
 <p align="center">Works Cited</p>
-I need to add the pdf here and fix formatting later 2nite. Also if someone else wants to easy bib and put the pdf here that would be cool too.
+&nbsp;&nbsp;&nbsp;&nbsp;Multiple Authors. "Quantitative Evaluation of Software Packages for Single-molecule Localization Microscopy." Nature Methods. U.S. National Library of Medicine, n.d. Web. 24 Feb. 2017.
 <br>
-Vaterlaus, Mitch J., and Brian J. Higginbotham. "Qualitative Program Evaluation Methods." Qualitative Program Evaluation Methods. NC State University, n.d. Web. 24 Feb. 2017. https://ncsu.edu/ffci/publications/2011/v16-n1-2011-spring/vaterlaus-higginbotham.php.
+&nbsp;&nbsp;&nbsp;&nbsp;Vaterlaus, Mitch J., and Brian J. Higginbotham. "Qualitative Program Evaluation Methods." Qualitative Program Evaluation Methods. NC State University, n.d. Web. 24 Feb. 2017. https://ncsu.edu/ffci/publications/2011/v16-n1-2011-spring/vaterlaus-higginbotham.php.
