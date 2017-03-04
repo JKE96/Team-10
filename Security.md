@@ -52,6 +52,6 @@ If security managers cannot have the power to do their entire job, then this can
 
 ##Works Cited##
 Paul, Logan. "Information Security Security." I303 Lecture. Indiana University, 
-<br>&emsp Bloomington. 3 Mar. 2017. Lecture.
+<br>&emsp; Bloomington. 3 Mar. 2017. Lecture.
 <br>
 Von Solms, Bassie. "The 10 Deadly Sins of Information Security Management." Elsevier (2004): 374. Web. 3 Mar. 2017
