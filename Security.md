@@ -18,6 +18,25 @@ This deadly sin states that best practice involves cooperation and coordination 
 #4. Identifying Risks#
 This deadly sin involves plans that are based off of what one thinks is a risk versus a risk that is actually verifiable. It recommends that risks be based off the probability of the event occurring and the impact it will have if it occurs. Completing risk analysis is a tedious task but one that will greatly benefit the organization in the future. Organizations implement such a practice to allocate resources properly such as money, people, etc. An example of some of the main risks facing the School of Informatics and Computing (SOIC) are medical, flooding, or fire. 
 
+#5. Best Practices #
+This deadly sin is most associated with when you want to do the right things right
+but you do not know what those right things are. There are generally two questions
+that need to get answered when thinking about the best practices for information
+security and they are 1. What are the risks that the information must be protected
+from and 2. What are the best ways to provide protection from these information
+risks. This is a very pressing issue because for many years business owners and
+other people who want to keep there information safe have been asking these
+questions. There may be no right way to do but you do need to find an effective way
+to protect your information.
+
+#6. Establish Policy#
+This deadly sin is when not everybody is on the same page. Everyone in your
+organization must be on the same page when it comes to rules and regulations.
+Everyone needs to have the same starting point so they all can see where they are
+going and how they are allowed to get there. Corporate information security policy
+is essential because that is what is needed to be successful. If there is a policy, it must be enforced so people will follow it and buy-in to the rules of the company.
+
+
 #7. Enforce & Monitor#
 When using a security system, one must constantly monitor the usage. Audits must be in place to make sure users are being security compliant, passwords must expire in order for newer and stronger ones to be in place, and Administrators must monitor network activity to make sure it is being used efficiently. According to Basie con Solms (p. 374), “It is no use having a perfect corporate information security policy, with a comprehensive set of supporting sub-policies, conforming to international best practices, if it is not possible to monitor and enforce compliance to such policies.” Unenforced policies are not policies but only wishes, un-monitored policies are but mere guidelines. Policies need to be monitored and enforced to be strongest. 
 
