@@ -17,3 +17,12 @@ This deadly sin states that best practice involves cooperation and coordination 
 
 #4. Identifying Risks#
 This deadly sin involves plans that are based off of what one thinks is a risk versus a risk that is actually verifiable. It recommends that risks be based off the probability of the event occurring and the impact it will have if it occurs. Completing risk analysis is a tedious task but one that will greatly benefit the organization in the future. Organizations implement such a practice to allocate resources properly such as money, people, etc. An example of some of the main risks facing the School of Informatics and Computing (SOIC) are medical, flooding, or fire. 
+
+#7. Enforce & Monitor#
+When using a security system, one must constantly monitor the usage. Audits must be in place to make sure users are being security compliant, passwords must expire in order for newer and stronger ones to be in place, and Administrators must monitor network activity to make sure it is being used efficiently. According to Basie con Solms (p. 374), “It is no use having a perfect corporate information security policy, with a comprehensive set of supporting sub-policies, conforming to international best practices, if it is not possible to monitor and enforce compliance to such policies.” Unenforced policies are not policies but only wishes, un-monitored policies are but mere guidelines. Policies need to be monitored and enforced to be strongest. 
+
+#9. Education & Awareness#
+When using a new IS, it is important to not only let people know that a new system is coming into place, but it is also important to train the users how to properly use the system – especially how to be secure on the new IS. This way you, as the administrator, cannot be held liable if a user has a colossal security screw up. It also helps prevent colossal screw ups, as the user knows what not to do and the implications if they do it. This can be done through classes, periodic quizzes, and security focused meetings. These do not have to necessarily be boring and dry, as these can have rewards for participating and doing well. Also calling out weak passwords, and other insecure means, can help the company focus more on security. 
+
+##Works Cited##
+Von Solms, Bassie. "The 10 Deadly Sins of Information Security Management." Elsevier (2004): 374. Web. 3 Mar. 2017
