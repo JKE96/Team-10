@@ -51,7 +51,6 @@ is essential because that is what is needed to be successful. If there is a poli
 &emsp;If security managers cannot have the power to do their entire job, then this can create problems in the information system.  Security managers need to be able to have the correct tools to do their job, such as knowing certain security aspects of the business.  With the correct tools and information about the security infrastructure, security managers can find loopholes within an information system’s structure.  Also, having several security managers working within a team for large organizations will let security managers be able to make sure aspects of the organization system are working well for individual parts of the system and among the different areas that the security managers may be 
 
 <b><p align="center"> Works Cited </p></b>
-Paul, Logan. "Information Security Security." I303 Lecture. Indiana University, 
-<br>&emsp; Bloomington. 3 Mar. 2017. Lecture.
+Paul, Logan. "Information Security Security." I303 Lecture. Indiana University, Bloomington. 3 Mar. 2017. Lecture.
 <br>
 Von Solms, Bassie. "The 10 Deadly Sins of Information Security Management." Elsevier (2004): 374. Web. 3 Mar. 2017
