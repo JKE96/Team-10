@@ -48,7 +48,7 @@ The V-Model shaped the Waterfall Method in a different way, in the shape of a V,
  <img src = "https://melsatar.files.wordpress.com/2012/03/v-shaped.png?w=584" width= "500" height = "500"/>
  </p>
  
- ##Spiral Model##
+##Spiral Model##
 The motto of the Spiral Model is "Start Small and Think Big", and for good reason. In the Spiral Model, the devolopers move around a center point and work "iterativly" towards a final project. Each lap of the spiral builds a prototype and moves fowards. This Model is very incremental and a large portion of repsonsibility is on the deisgner to identify and mitigate risks around each loop.
 
 <p align="center">
