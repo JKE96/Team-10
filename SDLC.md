@@ -36,7 +36,8 @@ This is a very simple method, which is traditionally very methodical and step wi
 
 ##B-Model##
 The B-Model is based off of the Waterfall Method, but it added a Maintenance Cycle. The B-Model is a bit more flexible when compared to Waterfall as the Maintenance Cycle allows for constant improvement while still piggy-backing off of the Waterfall method.
- <img src = "https://www.researchgate.net/profile/Nayan_Ruparelia/publication/220631422/figure/fig2/AS:393982631792675@1470944187494/Figure-2-The-b-model-extends-the-waterfall-model-In-a-sense-the-b-model-was-an-attempt.png" width= "200" height = "200"/>
+
+ <img src = "https://www.researchgate.net/profile/Nayan_Ruparelia/publication/220631422/figure/fig2/AS:393982631792675@1470944187494/Figure-2-The-b-model-extends-the-waterfall-model-In-a-sense-the-b-model-was-an-attempt.png" width= "500" height = "500"/>
 
 
 #References#
