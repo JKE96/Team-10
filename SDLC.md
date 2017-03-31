@@ -43,8 +43,15 @@ The B-Model is based off of the Waterfall Method, but it added a Maintenance Cyc
 The V-Model shaped the Waterfall Method in a different way, in the shape of a V, to illustrate procces change. On the Left side, decomposition and definition are shown. Whereas the Right side show integration and verification. The testing of the system can be planned in the left side and implemented in the right side of the model. This is better for large projects with many stakeholders and contributers. 
 
  <img src = "https://melsatar.files.wordpress.com/2012/03/v-shaped.png?w=584" width= "500" height = "500"/>
+ 
+ ##Spiral Model##
+The motto of the Spiral Model is "Start Small and Think Big", and for good reason. In the Spiral Model, the devolopers move around a center point and work "iterativly" towards a final project. Each lap of the spiral builds a prototype and moves fowards. This Model is very incremental and a large portion of repsonsibility is on the deisgner to identify and mitigate risks around each loop.
+
+ <img src = "https://www.automationlearn.com/s/cc_images/cache_4510850.png?t=1405454916" width= "500" height = "500"/>
 
 #References#
 https://www.researchgate.net/profile/Nayan_Ruparelia/publication/220631422/figure/fig2/AS:393982631792675@1470944187494/Figure-2-The-b-model-extends-the-waterfall-model-In-a-sense-the-b-model-was-an-attempt.png
 
 https://melsatar.files.wordpress.com/2012/03/v-shaped.png?w=584
+
+https://www.automationlearn.com/s/cc_images/cache_4510850.png?t=1405454916
