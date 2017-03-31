@@ -39,6 +39,12 @@ The B-Model is based off of the Waterfall Method, but it added a Maintenance Cyc
 
  <img src = "https://www.researchgate.net/profile/Nayan_Ruparelia/publication/220631422/figure/fig2/AS:393982631792675@1470944187494/Figure-2-The-b-model-extends-the-waterfall-model-In-a-sense-the-b-model-was-an-attempt.png" width= "500" height = "500"/>
 
+##V-Model##
+The V-Model shaped the Waterfall Method in a different way, in the shape of a V, to illustrate procces change. On the Left side, decomposition and definition are shown. Whereas the Right side show integration and verification. The testing of the system can be planned in the left side and implemented in the right side of the model. This is better for large projects with many stakeholders and contributers. 
+
+ <img src = "https://melsatar.files.wordpress.com/2012/03/v-shaped.png?w=584" width= "500" height = "500"/>
 
 #References#
 https://www.researchgate.net/profile/Nayan_Ruparelia/publication/220631422/figure/fig2/AS:393982631792675@1470944187494/Figure-2-The-b-model-extends-the-waterfall-model-In-a-sense-the-b-model-was-an-attempt.png
+
+https://melsatar.files.wordpress.com/2012/03/v-shaped.png?w=584
