@@ -35,7 +35,7 @@ There are many different types of SDLC Methods, which are based into three categ
 This is a very simple method, which is traditionally very methodical and step wise. The Waterfall Method goes from one step to another, and in 1970 Royce added an iterative feedback loop. This feedback loop allowed for teams to make corrections easier, usually jumping back one step; eventaully larger jumps back were introducted. Waterfall is great for low level or mission critical systems such as databses, security applications, and small projects. There is however, a high degree of risk for the Waterfall method which is why many orginizations do not use it for large projects. (March 21 Lecture)
 
 ##B-Model##
-The B-Model is based off of the Waterfall Method, but it added a Maintenance Cycle. <img src = "https://www.researchgate.net/profile/Nayan_Ruparelia/publication/220631422/figure/fig2/AS:393982631792675@1470944187494/Figure-2-The-b-model-extends-the-waterfall-model-In-a-sense-the-b-model-was-an-attempt.png" alt="B-Model" style = width: 200px;"/>
+The B-Model is based off of the Waterfall Method, but it added a Maintenance Cycle. <img src = "https://www.researchgate.net/profile/Nayan_Ruparelia/publication/220631422/figure/fig2/AS:393982631792675@1470944187494/Figure-2-The-b-model-extends-the-waterfall-model-In-a-sense-the-b-model-was-an-attempt.png" alt="B-Model" style = width: 100px;"/>
 The B-Model is a bit more flexible when compared to Waterfall as the Maintenance Cycle allows for constant improvement while still piggy-backing off of the Waterfall method.
 
 
