@@ -56,21 +56,22 @@ The motto of the Spiral Model is "Start Small and Think Big", and for good reaso
 </p>
 
 #Agile#
-Although not an SDLC, one should introduce Agile whenever talking about SDLCs. Agile is simply a set of principle that give an alternative to SDLC. Evolution of requirements and solutions, as the project moves along are the key to the Agile Method. In Agile, adaptive planning, ecolutionaly development, early delivery, and continious improvemts are a neccisity for a successful launch ([https://www.agilealliance.org/agile101/][Agile Alliance]).
+Although not an SDLC, one should introduce Agile whenever talking about SDLCs. Agile is simply a set of principle that give an alternative to SDLC. Evolution of requirements and solutions, as the project moves along are the key to the Agile Method. In Agile, adaptive planning, ecolutionaly development, early delivery, and continious improvemts are a neccisity for a successful launch ([Agile Alliance](https://www.agilealliance.org/agile101)).
 When experts came together to create the Agile mthod, twelve principoles were discovered which would help the development of a project.
 There twelve principles are:
-		1. Early and Continuous Delivery
-		2. Welcome changing requirements
-		3. Deliver frequently/short timeframe
-		4. Cross-functional team (Daily)
-		5. Motivated individuals and supported teams
-		6. Face-to-face conversations
-		7. Working software is the only measure of success
-		8. Maintain a constant pace indefinitely
-		9. Attention to detail is important
-		10. Simplicity
-		11. Best things come from self-organizing teams
-		12. Regular adjustments based on reflections
+
+1. Early and Continuous Delivery
+2. Welcome changing requirements
+3. Deliver frequently/short timeframe
+4. Cross-functional team (Daily)
+5. Motivated individuals and supported teams
+6. Face-to-face conversations
+7. Working software is the only measure of success
+8. Maintain a constant pace indefinitely
+9. Attention to detail is important
+10. Simplicity
+11. Best things come from self-organizing teams
+12. Regular adjustments based on reflections
 	
 #References#
 https://www.researchgate.net/profile/Nayan_Ruparelia/publication/220631422/figure/fig2/AS:393982631792675@1470944187494/Figure-2-The-b-model-extends-the-waterfall-model-In-a-sense-the-b-model-was-an-attempt.png
