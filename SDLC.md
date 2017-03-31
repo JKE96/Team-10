@@ -55,9 +55,28 @@ The motto of the Spiral Model is "Start Small and Think Big", and for good reaso
  <img src = "https://www.automationlearn.com/s/cc_images/cache_4510850.png?t=1405454916" width= "500" height = "500"/>
 </p>
 
+#Agile#
+Although not an SDLC, one should introduce Agile whenever talking about SDLCs. Agile is simply a set of principle that give an alternative to SDLC. Evolution of requirements and solutions, as the project moves along are the key to the Agile Method. In Agile, adaptive planning, ecolutionaly development, early delivery, and continious improvemts are a neccisity for a successful launch (Agile Alliance).
+When experts came together to create the Agile mthod, twelve principoles were discovered which would help the development of a project.
+There twelve principles are:
+		1) Early and Continuous Delivery
+		2) Welcome changing requirements
+		3) Deliver frequently/short timeframe
+		4) Cross-functional team (Daily)
+		5) Motivated individuals and supported teams
+		6) Face-to-face conversations
+		7) Working software is the only measure of success
+		8) Maintain a constant pace indefinitely
+		9) Attention to detail is important
+		10) Simplicity
+		11) Best things come from self-organizing teams
+		12)Regular adjustments based on reflections
+	
 #References#
 https://www.researchgate.net/profile/Nayan_Ruparelia/publication/220631422/figure/fig2/AS:393982631792675@1470944187494/Figure-2-The-b-model-extends-the-waterfall-model-In-a-sense-the-b-model-was-an-attempt.png
 
 https://melsatar.files.wordpress.com/2012/03/v-shaped.png?w=584
 
 https://www.automationlearn.com/s/cc_images/cache_4510850.png?t=1405454916
+
+"What Is Agile Software Development?" Agile Alliance. N.p., 06 Feb. 2017. Web. 31 Mar. 2017. <https://www.agilealliance.org/agile101/>.
