@@ -19,7 +19,7 @@ Conflicting needs stem from resources which by nature are limited. These resourc
 ### Conflicting Styles ###
 Conflicting styles stem from people doing things in their own ways. People tend to disagree about the proper style to perform some task or activity. Examples of this are programming/development and requirements analysis. 
 
-### Conflicting Perceptions ###
+### Conflicting Perceptions
 By viewing the the same incidents differently, conflict can stem. An an example of this would be hiring an extra developer where another developer at the company could view this as another helping hand or that he/she is not doing enough. 
 
 ### Conflict Goals ###
