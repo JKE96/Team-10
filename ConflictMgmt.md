@@ -44,6 +44,10 @@ It is important, and far easier to be in an offensive position in a group confli
 ##Who to Blame?##
 Do we blame the system or do we blame the people who have created the systems? Most of the time we tend to shift th blame to the system, and not the person who created the system. It is irrational and illogical to blame the system, as CNET writer Jon Olstik - talking about legacy Information Systems - states, "Business solutions, not technology widgets, create revenue and cut costs. Companies need responsive, business-focused IT organizations that can create and then manage these solutions. Legacy IT works against all that." His piece states that businesses need to blame the people behind the Information Systems, as it puts a face to a system and only that way can casue change. 
 
+###Moral Responsibility###
+
+
+
 ##Update Early and Often##
 When working on projects, large or small, all parties must be updated on progress. In group work, it is important to keep your fellow teammates updated so no two partners do the same work. In client-vendor relationships, it is important to let your client know progress is being made so they will not be upset if the project is not ready in time. This can also limit the amount of products being delivered and it is discovered that the product is not suitable. Keeping everyine informed and on the same page is a <b>GREAT</b> business practice, which all businesses should adhere to.
 
