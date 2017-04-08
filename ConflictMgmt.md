@@ -3,15 +3,15 @@ Conflict is described as a struggle or friction between two or more parties. The
 
 ## Where does Conflict come from ##
 Bell and Hart came up with eight different causes of workplace conflict in the early 2000s. These are defined as:
-1. Needs
-2. Styles
-3. Perceptions
-4. Goals
-5. Pressures
-6. Roles
-7. Values
-& 
-8. Policies. 
+<p>1. Needs
+<p>2. Styles
+<p>3. Perceptions
+<p>4. Goals
+<p>5. Pressures
+<p>6. Roles
+<p>7. Values
+<p>& 
+<p>8. Policies. 
 
 ### Conflicting Needs ###
 Conflicting needs stem from resources which by nature are limited. These resources can be physical, monetary, and time. 
