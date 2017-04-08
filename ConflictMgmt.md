@@ -45,7 +45,7 @@ It is important, and far easier to be in an offensive position in a group confli
 Do we blame the system or do we blame the people who have created the systems? Most of the time we tend to shift th blame to the system, and not the person who created the system. It is irrational and illogical to blame the system, as CNET writer Jon Olstik - talking about legacy Information Systems - states, "Business solutions, not technology widgets, create revenue and cut costs. Companies need responsive, business-focused IT organizations that can create and then manage these solutions. Legacy IT works against all that." His piece states that businesses need to blame the people behind the Information Systems, as it puts a face to a system and only that way can casue change. 
 
 ###Moral Responsibility###
-
+“Computing and Moral Responsibility,” by the Stanford Encyclopedia of Philosophy explains some of the moral obligations related to computers.  The article goes into full detail about some arguments philosophers are having about the issue about who is morally responsible related to being obligated to certain things within computers.  The article explains that computers dissolve how obvious responsibility is.  The article explains that computers having to be safe may be in violation of a free democratic society and violates freedom.  It also explains what it means to be in contribution to a certain event which might make you responsible.  Also, there is an explanation that computers let people do more than ever before.  People are able to be able to send messages to millions of people in an instant and are also able to make a mistake for a lot of people.  Also there is some challenges such as free will with computers that make moral responsibility for actions within computing a huge challenge.
 
 
 ##Update Early and Often##
@@ -53,3 +53,4 @@ When working on projects, large or small, all parties must be updated on progres
 
 #Resources#
 https://www.cnet.com/news/why-blaming-technology-is-a-cop-out/
+https://plato.stanford.edu/entries/computing-responsibility/#CauCon
