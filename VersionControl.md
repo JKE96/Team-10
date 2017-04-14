@@ -34,6 +34,11 @@ __[Wired] (https://www.wired.com/2015/03/github-conquered-google-microsoft-every
 
 ## History of Version Control ##
 ### Pre-Software ###
-Before the invention of softwares, people maintained physical file systems containing carbon copies to record previous versions. Versioning is the process of accomplishment through creating a better draft of it. A common example is with textbooks which have numerous versions. Another is the Guisness Book of World Records which gets updated yearly. Through version control, one can see the changes made throughout history. 
+Before the invention of version control software, people maintained physical file systems containing carbon copies to record previous versions. Versioning is the process of accomplishment through creating a better draft of it. A common example is with textbooks which have numerous versions. Another is the Guisness Book of World Records which gets updated yearly. Through version control, one can see the changes made throughout history. 
 
-### Manual Versioning (60s) ### 
+## Manual Versioning (60s) ##
+In the 1960s, organizations had Source Control Departments (SCD) to manage version control. A person would bring his code to the SCD and they would manually record versions of the code; They controlled the merging of code as well. The resources used by the SCD were neccessary but draining to organizations. 
+
+## Source Control Management (SCM) ##
+SCM was an important topic of conversation for people in the computer industry because they needed a more efficient method for tracking files when programming. Two developments of this were in 1972 when Source Code Control System (SCCS) released. Later in 1982, The Revision Control System (RCS) was released. The function of these programs were to record the most updated versions of files and any changes (deltas) made to the files. This utilitized storage much more effectively because firms were not required to store full versions with SCM only the deltas. Concurrent Versions Systems (CVS) in 1990 was able to manage multiple versions of a project simulatenously introducing merging and branching through non-physical means. This was augmented through the use of servers. An issue with CVS was that it could track files singularly but not as part of a larger directory. CVS in 1994 accepted Transition Control Protocol (TCP) / Internet Protocol (IP) providing people the ability to telecommute. 
+
