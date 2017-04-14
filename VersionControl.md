@@ -11,6 +11,8 @@ Health Care is one of the most sued industries in the current market. Health Car
 
 #3 Pieces#
 ##Who? What? When?##
+###What was changed? ###
+The main purpose of a changelog, a version control variant, it to see what was changed and the previous versions of the item that were changed. This could be something as simple as previous versions of a Word Document, previous versions of a file on Box or GitHub, or something more complex like medication dosage (which cannot be reverted back). Blueprints are great examples of this in the physical world, as we can see throughout time what aspects of the structure in question were changed and when they were changed. 
 
 
 ##Risks##
