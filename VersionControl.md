@@ -1,4 +1,10 @@
 #Version Control#
-##In The Animal Kingdom##
+##Keeping Track of Things##
+###In The Animal Kingdom###
 Charles Darwin was one of the greatest documenters of version control that biologists have ever seen. Understanding and documenting animals evolve over time and being one of the first to document changes between species is one of the most popular examples of documenting version control. There are finite reasons – for the most part – why animals evolve the way they do, such as switching bipedal in order to run farther, and in the case of the flying squirrel, growing loose skin helps it glide from tree to tree. Plants have also evolved over time, from being able to take in more or less water, to changes in size, plants also evolve for ensuing survival.
 
+<<<<<<< HEAD
+=======
+###Banks###
+Banks need to have a version control system, as they deal with our money on a daily basis, and who has how much money. We all would not be happy if our banks could not determine how much cash we have in our accounts and how many accounts we have. Bank ledgers handle the transaction history, let the bank and user know how much money the users have, and when each transaction was made. Banks can measure a person’s wealth dependent on the time the money changes hands. Ledgers also help users claim fraud, as the user can say “No, I was not in Anchorage, AL this morning and then traveled back to Bloomington, IN two hours later.” This helps the user know when and where charges were charged to them, and with more and more digital records, this is done in nearly real-time.
+>>>>>>> ed34ced68ad92ca9698a8be6616da1b05b7b9e03
