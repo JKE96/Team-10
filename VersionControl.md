@@ -24,3 +24,16 @@ In order to cover our own behinds, we must associate a person to the error itsel
 
 ##Risks##
 Risks come from changes that occur within a system or within a protocol that people undergo. These changes occur with anyone working on a project or manager tasks or even stakeholders. Changes of any kind have the potential to be positive or negative. No matter what change that is being implemented, big or small, it causes risky situations in terms of negative or positive potential. When attempting to implement a change, it is always good practice to keep track of everything that you change and everything that happens due to the change. Although some risks are unavoidable, keeping track of more can mitigate some risks in the long term. For example, many organizations keep many different versions of past and present policies and precedures to allow their workers to know what changes were made to previous policies. This allows the workers to know exactly what was changed, how it was changed, and how this change differs from previous policy in other versions
+
+## Real-World Examples of Version Control  ##
+Indiana University use version control to mitigate many issues. One of these ways is through Bulletins such as IU Bulletins. The Bulletins help students keep track of the requirements for their degrees based on matriculation. Another examples is the Gradebook within Canvas that stores grades of assignments based on earliest due date. A third are papers written using Google Sheets or stored in a cloud storage service like Box keeps a history of each version. 
+
+## Software (Code) ## 
+Another way version control is used is for coding. Many organizations "have their open source projects on GitHub, including Google, Facebook, Twitter, and even Microsoft" (Ariel Zambelich). Smaller organzations also host their own projects on GitHub. 
+__[Wired] (https://www.wired.com/2015/03/github-conquered-google-microsoft-everyone-else/)__
+
+## History of Version Control ##
+### Pre-Software ###
+Before the invention of softwares, people maintained physical file systems containing carbon copies to record previous versions. Versioning is the process of accomplishment through creating a better draft of it. A common example is with textbooks which have numerous versions. Another is the Guisness Book of World Records which gets updated yearly. Through version control, one can see the changes made throughout history. 
+
+### Manual Versioning (60s) ### 
