@@ -49,8 +49,8 @@ The release of Subversion in 2000 provided users the ability to fully track thei
 Git is the control system that users are in contact with when making changes to git code.  GitHub uses Git as the background software for the repositories to store a lot of information about software code.  GitHub is the location where the Git files are stored and shared among people throughout the world, companies, groups, or individuals. Some best practices with GitHub include: working at small tasks at a time, committing often to show significant changes to code, to provide useful comments when making commits to the repo, and to not panic when making the changes.  Another good practice when using GitHub is to be mindful of the files that are uploaded to GitHub.  In class there was discussion about using a gitignore file to stop the upload of certain files to be uploaded to GitHub.  These gitignore files can ignore certain files so they will not be uploaded to GitHub, which can be useful such as when creating C files that are being compiled and there are a lot of *.o files in the file folder. Some other good practices on GitHub include making sure the correct files are uploaded, callaborating among group members, and making sure that all the Git files are useful.
 
 ##References##
-https://www.wired.com/2015/03/github-conquered-google-microsoft-everyone-else/
-http://stackoverflow.com/questions/8527597/how-do-i-ignore-files-in-a-directory-in-git
+https://www.wired.com/2015/03/github-conquered-google-microsoft-everyone-else/ <br>
+http://stackoverflow.com/questions/8527597/how-do-i-ignore-files-in-a-directory-in-git <br>
 https://git-scm.com/docs/gitignore
 
 
