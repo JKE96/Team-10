@@ -50,8 +50,11 @@ Git is the control system that users are in contact with when making changes to 
 
 ##Single  Developer Method##
 1.) Begin development of new versions
+
 2.) Test new versions
+
 3.) Staging of versions - Set up is similar to that of production
+
 4.) Production -take back before pushing version
 
 ##References##
