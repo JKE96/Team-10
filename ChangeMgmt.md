@@ -8,3 +8,6 @@ One common example of change in technology is new and improved hardware. The cre
 
 ## Why do we care?
 There are many costs and risks of poorly managed chang. Ignoring or mismanaging the people side of change has real consequences for project performance, such as project delays, budget overruns, required desing rework, resources are not made available, and unexpected obstacles. On an organizational level, poor change management can result in deep and sustained productivity plunges, loss of valued employees, and a reduced quality of work which negatively impacts customers, suppliers, and the morale of the organization itself. Making haphazard changes can be very damaging to the organization, especially if the organization has many stakeholders. That is why risk mitigation and weighing the risks is very important in change management, and making changes to production technologies can have a far-reaching effect on the organization. 
+
+## When do we care?##
+There are several conditions under which it is important to manage change. First off, it is important to manage change in risky situations in general, as described in the paragraph above....
