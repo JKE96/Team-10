@@ -24,9 +24,14 @@ New pieces and groups of software are constantly changing, just take a look at y
 ###New Best Practices###
 Best practices, or shared organizational standards, are in constant change. These best practices are usually industry wide, so much so that many organizations in that same industry use similar or same best practices. Many vendors will share the best practices from client to client to improve overall efficiency and to make their clients happy. When best practices change however, the entire system itself may have to change. This itself is a barrier for many organizations to change their best practices, as it will cost money to make or buy the system and to train its employees on the new best practice itself. 
 
+##Innovation##
+At the end of the day change comes down to one thing: innovation. We have a constant need and desire to innovate and improve. Innovations start with a singular belief; whether to ‘connect the world’, or to ‘make information universally accessible and useful’ or to allow for people to read at night. Mark Zuckerberg, Google, and Thomas Edison all had this desire to innovate and they became very financially successful because of it [(Perkins)]( https://www.virgin.com/disruptors/what-is-the-motivation-behind-people%252525E2%25252580%25252599s-desire-to-innovate). It would be useless for some guy in a shed, in today’s market, to disrupt the market because in order to innovate we must get others on board with the change. One of the best ways to get people on board is to use organizations to help promote or expand the innovation to the rest of the world.
+
 
 ## Failing Change ##
 Failure is not always make it or break it when it comes to the change. When most people think of change, they think of something that is a horrible failure that causes a catastrophy. Failure can come in many forms, whether it be from exceeding budgets, exceeding a time-table, or the final functionability of the product. A lot of the time, people just see the failure and do not analyze why the change failed. But why do changes fail? Changes can also fail for many different reasons. One way for a change to fail is that it is unclear what changed from the previous version. When it is unclear what has changed, this can cause confusion for those using the product. Another way a change can fail is that there is minimal buy-in from the people using product which had the change. The lack of buy-in can happen from those in management or the general workforce. Both scenarios can be bad but if the management does not buy-in to the change, then this could cause complete failure of the project. Additionally, failure can happen if the project has insufficient resources to finish the project. 
 
 #Resources#
+
+Perkins, Melanie. "What Is the Motivation behind People's Desire to Innovate?" Virgin. N.p., 11 Dec. 2015. Web. 21 Apr. 2017.
 "What Is Punch Card?" Computer Hope. Web. 21 Apr. 2017.
